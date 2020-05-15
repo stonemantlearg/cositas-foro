@@ -1,0 +1,48 @@
+[dohtml]<div id="russia"><div class="wod-wiki-container">
+  <div class="wod-wiki-title">Nombre Lugar</div>
+  <div class="wod-wiki-body">
+    <div class="wod-wiki-left">
+      <div class="wod-wiki-para">
+        <b>Lorem Ipsum</b>dolor sit amet, consectetur adipiscing elit. Aenean quis arcu enim. Aliquam erat tortor, pharetra ac gravida id, mollis in tellus. Duis tincidunt imperdiet neque sed condimentum. Nulla convallis eleifend dui, ac semper sapien facilisis sed. Phasellus efficitur tristique fringilla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nulla tellus justo, ornare at volutpat non, fermentum cursus turpis. Vivamus fermentum sollicitudin mattis. Ut ultricies fermentum mauris, ut imperdiet nisl molestie nec. Duis condimentum metus non fringilla feugiat.<br><br>
+        Pellentesque consequat semper lacus id tristique. Mauris semper dapibus quam in tempor. Nam fermentum diam in ex vulputate mollis. Nulla molestie auctor porta. Etiam id tellus sed lorem ullamcorper lacinia eu sit amet ipsum. Donec congue venenatis dui, eu rutrum nunc dapibus a. In hac habitasse platea dictumst. Nunc ultricies facilisis augue, in porta mi tristique vel. Vestibulum blandit enim hendrerit lobortis imperdiet. Donec ipsum elit, pulvinar vel auctor vel, sollicitudin eget felis. Nullam quis condimentum augue, quis pellentesque nunc. Duis ac libero fermentum, aliquet urna eu, interdum nulla. Quisque laoreet nunc sed neque rhoncus imperdiet. <br><br>
+        Donec condimentum ex sed accumsan commodo. Nullam eget nisi ut tortor venenatis malesuada. Sed laoreet ornare cursus. Phasellus elit nisl, vestibulum nec scelerisque sed, commodo ut purus. Nulla facilisi. Sed semper eget lorem ut consequat. Mauris tellus massa, finibus sed lorem a, aliquet mattis diam. Cras vehicula fringilla dolor, quis bibendum tortor pulvinar sit amet. Maecenas non pulvinar turpis, ac tincidunt ligula. 
+        <h1>Seccion</h1>
+        Vivamus a iaculis elit. Praesent suscipit commodo dolor quis consectetur. Pellentesque ac aliquam sapien. Donec ullamcorper rhoncus lacinia. Vivamus fermentum dolor ut magna mattis, eu ultrices metus facilisis. Pellentesque suscipit vestibulum congue. Duis rutrum lectus a lacus tristique, sit amet consequat augue vestibulum. Nunc non erat ut augue mollis ullamcorper. Mauris nisi leo, vehicula in finibus sed, imperdiet id quam. Nunc posuere dapibus neque et auctor. Fusce id auctor nibh. Maecenas blandit mi pellentesque pellentesque dapibus. Vestibulum mi nunc, auctor at ipsum et, varius sodales sapien. Nunc vitae justo ut neque aliquam congue. <br><br>
+        Aliquam luctus gravida placerat. Fusce id tortor eget ex consequat egestas. Vivamus a neque eros. Phasellus sagittis purus non est gravida laoreet. Aenean non orci quis massa imperdiet molestie. Aliquam dolor orci, auctor vitae magna eu, tincidunt tempor nisi. In porta ante dignissim condimentum hendrerit. Donec in lectus et nisi pellentesque molestie. Phasellus nec est at lacus auctor porttitor. Donec at quam nec justo congue mollis. Nulla in porta nisi. Praesent ultrices quam et leo pharetra ultricies. 
+         <h1>Seccion</h1>
+       Etiam sagittis nisi ut diam commodo, quis aliquam magna bibendum. Vivamus et fringilla elit, ullamcorper suscipit ex. Ut ultrices, lectus sed tincidunt suscipit, velit elit scelerisque ex, in suscipit dui arcu sed dolor. Fusce a molestie lacus. Sed ac augue nec metus bibendum semper fringilla nec ex. Proin placerat, arcu imperdiet tempus vehicula, elit neque posuere libero, a faucibus lectus augue et purus. Aenean lacus est, fringilla sed feugiat sed, tempus sit amet ante. Sed sollicitudin elementum pharetra. Nunc varius dolor massa, et iaculis augue gravida et. In fermentum ex elit, non tempor est fringilla vel. Duis rutrum ultricies egestas. Mauris pulvinar nulla eu dictum posuere. Quisque gravida nec arcu ut tempor. Aliquam erat volutpat. Curabitur pellentesque, elit at tristique pellentesque, augue neque aliquet massa, a viverra tellus enim a nisi. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      </div>
+    </div>
+    <div class="wod-wiki-right">
+      <img src="https://placehold.it/200x328">
+      <div class="wod-wiki-info" style="margin-top: 0px;">DAto</div>
+      <div class="wod-wiki-line"></div>
+      <div class="wod-wiki-info">
+        DAto
+      </div>
+      <div class="wod-wiki-info">
+        Dato
+      </div>
+      <div class="wod-wiki-info">
+        Dato
+      </div>
+      <div class="wod-wiki-info">
+        DAto
+      </div>
+      <div class="wod-wiki-info">
+        Dato
+      </div>
+      <div class="wod-wiki-info">
+        Dato
+      </div>
+       <div class="wod-wiki-info">
+        Dato
+      </div>
+      <div class="wod-wiki-info">
+        DAto
+      </div>
+      <div class="wod-wiki-line" style="margin-bottom: 0px;"></div>
+      <img src="https://placehold.it/200x260">
+    </div>
+  </div>
+  </div></div>[/dohtml]
